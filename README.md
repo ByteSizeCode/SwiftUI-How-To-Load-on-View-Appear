@@ -84,3 +84,4 @@ struct ContentView: View {
     }
 }
 ```
+You have now used standard Swift to load up the current date and update the value in your SwiftUI view
